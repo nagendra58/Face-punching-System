@@ -1,0 +1,46 @@
+ID,Employee Name,Date,Time,Status
+E1,E1_Nag,2024-10-22,21:48:07,Check-in
+E1,E1_Nag,2024-10-22,21:48:40,Check-in
+E1,E1_Nag,2024-10-22,21:52:34,Check-in
+E1,E1_Nag,2024-10-22,21:57:46,Check-in
+E1,E1_Nag,2024-10-22,21:57:50,Check-out
+E1,E1_Nag,2024-10-22,21:58:37,Check-in
+E1,E1_Nag,2024-10-22,22:00:14,Check-out
+E1,E1_Nag,2024-10-22,22:03:39,Check-in
+E2,E2_Ran,2024-10-22,22:03:56,Check-in
+E1,E1_Nag,2024-10-22,22:06:47,Check-out
+E2,E2_Ran,2024-10-22,22:06:57,Check-out
+E2,E2_Ran,2024-10-23,07:29:10,Check-in
+E1,E1_Nag,2024-10-23,07:29:18,Check-in
+E1,E1_Nag,2024-10-23,07:33:08,Check-out
+E2,E2_Ran,2024-10-23,07:33:16,Check-out
+,Nagendra,2024-10-23,14:28:17,Check-in
+,Nagendra,2024-10-23,14:28:24,Check-out
+,,2024-10-23,14:34:23,Check-in
+,,2024-10-23,14:34:26,Check-out
+E1,E1_Nag,2024-10-23,14:36:05,Check-in
+E1,E1_Nag,2024-10-23,14:39:27,Check-in
+123,John Doe,2024-10-23,14:43:30,Check-in
+123,John Doe,2024-10-23,14:43:45,Check-out
+123,John Doe,2024-10-23,14:43:52,Check-in
+123,John Doe,2024-10-23,14:44:03,Check-out
+E1,E1_Nag,2024-10-23,14:44:41,Check-in
+E1,E1_Nag,2024-10-23,14:51:26,Check-in
+E1,E1_Nag,2024-10-23,14:53:12,Check-in
+E1,E1_Nag,2024-10-23,14:54:50,Check-in
+E1,E1_Nag,2024-10-23,14:55:28,Check-in
+E1,E1_Nag,2024-10-23,15:05:57,Check-in
+E1,E1_Nag,2024-10-23,15:06:48,Access Denied
+E1,E1_Nag,2024-10-23,15:06:53,Check-in
+E1,E1_Nag,2024-10-23,15:07:16,Check-out
+E1,E1_Nag,2024-10-23,15:12:56,Check-in
+E1,E1_Nag,2024-10-23,15:13:20,Check-out
+E1,E1_Nag,2024-10-23,15:18:05,Check-in
+E1,E1_Nag,2024-10-23,15:19:23,Check-in
+E2,E2_Ran,2024-10-23,15:19:36,Check-in
+E2,E2_Ran,2024-10-23,15:19:41,Check-out
+E1,E1_Nag,2024-10-23,15:19:44,Check-out
+E1,E1_Nag,2024-10-23,15:29:43,Check-in
+E1,E1_Nag,2024-10-23,15:29:54,Check-out
+E1,E1_Nag,2024-10-23,15:33:21,Check-in
+E1,E1_Nag,2024-10-23,15:33:32,Check-out

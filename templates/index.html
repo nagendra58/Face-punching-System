@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Recognition Attendance</title>
+    <style>
+        body {
+            margin: 0;               
+            background-color: #f4f4f4; 
+            display: flex;
+            flex-direction: column;
+            align-items: center;      
+        }
+        .centered-image {
+            display: flex;
+            justify-content: center;  
+            margin-top: 20px;        
+        }
+        img {
+            width: 800px;
+            height: 500px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+    <script>
+        setInterval(function() {
+            document.getElementById('videoFeed').src = '/video_feed?' + new Date().getTime();
+        }, 100); // Refresh every 100 milliseconds
+    </script>
+</head>
+<body>
+    <h1>Face Recognition Attendance System</h1>
+    <div class="centered-image">
+        <img id="videoFeed" src="{{ url_for('video_feed') }}" alt="Video Feed">
+    </div>
+    <div>
+        <button onclick="location.href='/checkin'">Check In</button>
+        <button onclick="location.href='/checkout'">Check Out</button>
+    </div>
+</body>
+</html>
